@@ -1,1 +1,1 @@
-Unzip the project and open it in Codesys V3.5
+Unzip and open the Spuitinstallatie.project in Codesys V3.5 
